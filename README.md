@@ -1,1 +1,1 @@
-# replication-eta-elections
+This repository contains the data and code to replicate the analyses for Balcells, Laia and Gerard Torrats-Espinosa. 2018. “Using a Natural Experiment to Estimate the Electoral Consequences of Terrorist Attacks.” *Proceedings of the National Academy of Sciences* 115 (42): 10624-10629.
